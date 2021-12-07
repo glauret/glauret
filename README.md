@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/guillaume-lauret/**
 
-- 📄 Know about my experiences [chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.overleaf.com/download/project/61af45e218c33c4ecb338e54/build/17d955c4105-8314537109cdc0d0/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-e2-e-tjg8&popupDownload=true](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.overleaf.com/download/project/61af45e218c33c4ecb338e54/build/17d955c4105-8314537109cdc0d0/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-e2-e-tjg8&popupDownload=true)
-
 - ⚡ Fun fact **I'm a badminton addict**
 
 <h3 align="left">Connect with me:</h3>
