@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Sign Language Detection Project](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1073137190155204&t=2903)
 
-- 🌱 I’m currently learning **Deep Learning with Keras Library and Data Analytics with Pandas, Numpy and Matplotlib**
+- 🌱 Check out **my personal page** for more information about me https://glauret.github.io/
 
 - 💬 Ask me about **Deep Learning architecture models with classification**
 
