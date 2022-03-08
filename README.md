@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Guillaume Lauret</h1>
-<h3 align="center">Looking for a Data Scientist/Data Analyst position in SF, Paris or London</h3>
+<h3 align="center">Looking for a Data Analyst position in SF, Paris or London</h3>
 
-- 🔭 I’m currently working on [Sign Language Detection Project](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1073137190155204&t=2903)
+- 🔭 I’m currently working on a Data Analytics project on a finctional bike-shared company in Chicago
 
 - 🌱 Check out **my personal page** on the following link https://glauret.github.io/
 
-- 💬 Ask me about **Deep Learning architecture models with classification**
+- 💬 Ask me about **Data Analytics using SQL, Python, R and Tableau*
 
 - 📫 How to reach me **https://www.linkedin.com/in/guillaume-lauret/**
 
