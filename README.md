@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guillaume Lauret</h1>
-<h3 align="center">Looking for a Data Analyst position in SF, Paris or London</h3>
+<h3 align="center">Looking for a Mid/Senior Data Analyst position in London</h3>
 
-- 🔭 I’m currently working on a Data Analytics project on a finctional bike-shared company in Chicago
+- 🔭 I’m currently working on getting the Google Advanced Data Analytics Professional Certificate
 
 - 🌱 Check out **my personal page** on the following link https://glauret.github.io/
 
